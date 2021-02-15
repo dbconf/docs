@@ -7,11 +7,11 @@
 
 * iOS
 
-  * [在 Loon 上配置](iOS/Loon.md)
+
   * [在 Surge 上配置](iOS/Surge.md)
   * [在 Kitsunebi 上配置](iOS/Kitsunebi.md)
   * [在 Quantumult 上配置](iOS/Quantumult_sub.md)
-    * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
+  * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
   * [在 QuantumultX 上配置](iOS/QuantumultX.md)
   * [在 Shadowrocket 上配置](iOS/Shadowrocket.md)
 
@@ -19,7 +19,7 @@
 
   * [在 Netch 上配置](Windows/Netch.md)
   * [在 SSTap 上配置](Windows/SSTap.md)
-  * [在 V2RayN 上配置](Windows/V2RayN.m
+  * [在 V2RayN 上配置](Windows/V2RayN.md)
   * [在 Clash for Windows 上配置](Windows/Clash-for-Windows.md)
 
 * macOS
