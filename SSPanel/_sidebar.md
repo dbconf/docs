@@ -30,10 +30,6 @@
 
   * [在 Electron SSR 上配置](Linux/ElectronSSR.md)
 
-* Router
-
-  * [在 KoolClash 上配置](Router/KoolClash.md)
-  * [在 Koolshare Merlin 上配置](Router/Merlin.md)
 
 
   * [最新官方测速参考](https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud/0313.png)
