@@ -1,3 +1,6 @@
+
+  * [免费获取独享订阅链接](https://www.dabai.pw/auth/register?code=taoid)
+
 * Android
 
   * [在 V2rayNG 上配置](Android/V2RayNG.md)
