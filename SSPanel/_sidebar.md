@@ -13,7 +13,6 @@
   * [在 Quantumult 上配置](iOS/Quantumult_sub.md)
   * [在 Kitsunebi 上配置](iOS/Kitsunebi.md)
   * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
-  * [在 QuantumultX 上配置](iOS/QuantumultX.md)
 
 * Windows
 
