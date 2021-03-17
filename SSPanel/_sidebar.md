@@ -1,6 +1,4 @@
 
-  * [最新官方测速参考](https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud/0313.png)
- 
   * [免费获取独享订阅链接](https://www.dabai.pw/auth/register?code=taoid)
 
 * Android
@@ -36,3 +34,8 @@
 
   * [在 KoolClash 上配置](Router/KoolClash.md)
   * [在 Koolshare Merlin 上配置](Router/Merlin.md)
+
+
+  * [最新官方测速参考](https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud/0313.png)
+  * 
+<br><img src="https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud/0313.png" alt="IMG_0.PNG">
