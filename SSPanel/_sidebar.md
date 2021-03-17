@@ -26,12 +26,6 @@
   * [在 ClashX 上配置](macOS/ClashX.md)
   * [在 V2RayU 上配置](macOS/V2RayU.md)
 
-* Linux
-
-  * [在 Electron SSR 上配置](Linux/ElectronSSR.md)
-
-
-
   * [最新官方测速参考](https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud/0313.png)
   * 
 <br><img src="https://cdn.jsdelivr.net/gh/dbconf/cdn-cloud/0313.png" alt="IMG_0.PNG">
