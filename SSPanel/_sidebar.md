@@ -5,7 +5,6 @@
 
   * [在 V2rayNG 上配置](Android/V2RayNG.md)
   * [在 BifrostV 上配置](Android/BifrostV.md)
-  * [在 Surfboard 上配置](Android/Surfboard.md)
 
 * iOS
 
